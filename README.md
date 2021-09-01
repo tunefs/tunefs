@@ -4,7 +4,7 @@ Year      | Company
 --------- | ----------
 2021-     | LexxPluss
 2021-     | Khons
-2020-     | FPV Robotics
+2020-2021 | FPV Robotics
 2016-2020 | Nileworks
 2015-2016 | Videx
 2014-2014 | Xyzzyx
