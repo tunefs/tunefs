@@ -2,6 +2,7 @@
 
 Year      | Company
 --------- | ----------
+2025-     | NTT e-Drone Technology
 2021-     | Khons
 2021-2023 | LexxPluss
 2020-2021 | FPV Robotics
