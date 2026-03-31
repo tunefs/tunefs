@@ -2,8 +2,8 @@
 
 Year      | Company
 --------- | ----------
-2025-     | NTT e-Drone Technology
 2021-     | Khons
+2025-2026 | NTT e-Drone Technology
 2021-2023 | LexxPluss
 2020-2021 | FPV Robotics
 2015-2020 | Nileworks
